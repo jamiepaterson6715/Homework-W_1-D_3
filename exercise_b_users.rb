@@ -83,8 +83,7 @@ users["Erik"][:lottery_numbers]
 users["Erik"][:lottery_numbers].min
 
 # 6. Return an array of Avril's lottery numbers that are even
-# users["Avril"][:lottery_numbers => [12, 14, 33, 38, 9, 25]]
-# users[:lottery_numbers].each do |x| % 2 == 0 puts X ???
+# users["Avril"][:lottery_numbers].each do |x| % 2 == 0 puts X ???
 
 # 7. Erik is one lottery number short! Add the number `7` to be included in his lottery numbers
 # fruits << 'lemon'#puts something on end
